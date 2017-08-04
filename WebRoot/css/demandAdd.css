@@ -1,0 +1,67 @@
+	* {margin:0px; padding:0px;}
+	em{
+		color:#3F0;
+		}
+body { font-family:Verdana; font-size:20px; margin:0;}
+table {
+	border-collapse: collapse;
+	border: none;
+	margin: 0px auto;
+	width: 1500px;
+}
+
+span{
+color:#ff0000;
+}
+
+th, td {
+	border: solid #333 1px;
+	height: 25px;
+}
+
+div {
+	text-align: center;
+}
+input.full{
+width:100%;
+height:100%;
+font-size:20px;
+}
+option.afull{
+width:100%;
+height:100%;
+}
+.keyword{
+	width:18%;
+	height:100%;
+	font-size:20px;
+}
+.textBox{
+	width:100%;
+	height:150px;
+	font-size:20px;
+}
+.infull
+{
+	width:100%;
+	height:100%;
+	font-size:20px;
+}
+.subBt
+{
+	width:100px;
+	height:30px;
+	color:#000;
+	font-size:20px;
+}
+.zishu
+{
+	font-size:20px;
+	color:#F00;
+}
+.half
+{
+	width:50%;
+	height:100%;
+	font-size:20px;
+}
